@@ -1,10 +1,10 @@
 
-#Admin User Credentials:
+# Admin User Credentials:
 
 * E-mail: _admin@gmail.com_
 * Password: _password_
 
-#Commands to Run:
+# Commands to Run:
 
 ``` bash
 cp .env.example .env
